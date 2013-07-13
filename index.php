@@ -26,6 +26,7 @@
 	</script>
 </head>
 <body>
+	<h3>Hello World!</h3>
 	<table width=100%>
 		<tr>
 			<td width=100% id='tablerow'>
